@@ -1,0 +1,96 @@
+{
+  "n_activity_records": 120,
+  "n_transitions": 75,
+  "n_students": 23,
+  "target_distribution": {
+    "High (80\u2013100)": 59,
+    "Low (<50)": 10,
+    "Developing (50\u201379)": 6
+  },
+  "split_strategy": "GroupShuffleSplit by student (held-out students)",
+  "best_by_macro_f1": "Decision Tree",
+  "best_model_report": {
+    "Developing (50\u201379)": {
+      "precision": 0.75,
+      "recall": 0.75,
+      "f1-score": 0.75,
+      "support": 4.0
+    },
+    "High (80\u2013100)": {
+      "precision": 0.5882352941176471,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.6896551724137931,
+      "support": 12.0
+    },
+    "Low (<50)": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 7.0
+    },
+    "accuracy": 0.5652173913043478,
+    "macro avg": {
+      "precision": 0.44607843137254904,
+      "recall": 0.5277777777777778,
+      "f1-score": 0.47988505747126436,
+      "support": 23.0
+    },
+    "weighted avg": {
+      "precision": 0.4373401534526854,
+      "recall": 0.5652173913043478,
+      "f1-score": 0.4902548725637182,
+      "support": 23.0
+    }
+  },
+  "metrics": [
+    {
+      "model": "Decision Tree",
+      "accuracy": 0.5652173913043478,
+      "balanced_accuracy": 0.5277777777777778,
+      "macro_precision": 0.44607843137254904,
+      "macro_recall": 0.5277777777777778,
+      "macro_f1": 0.47988505747126436
+    },
+    {
+      "model": "Random Forest",
+      "accuracy": 0.4782608695652174,
+      "balanced_accuracy": 0.3253968253968254,
+      "macro_precision": 0.27777777777777773,
+      "macro_recall": 0.3253968253968254,
+      "macro_f1": 0.27499999999999997
+    },
+    {
+      "model": "Gradient Boosting",
+      "accuracy": 0.5217391304347826,
+      "balanced_accuracy": 0.3333333333333333,
+      "macro_precision": 0.17391304347826086,
+      "macro_recall": 0.3333333333333333,
+      "macro_f1": 0.22857142857142856
+    },
+    {
+      "model": "Dummy baseline",
+      "accuracy": 0.5217391304347826,
+      "balanced_accuracy": 0.3333333333333333,
+      "macro_precision": 0.17391304347826086,
+      "macro_recall": 0.3333333333333333,
+      "macro_f1": 0.22857142857142856
+    },
+    {
+      "model": "Extra Trees",
+      "accuracy": 0.5217391304347826,
+      "balanced_accuracy": 0.3333333333333333,
+      "macro_precision": 0.17391304347826086,
+      "macro_recall": 0.3333333333333333,
+      "macro_f1": 0.22857142857142856
+    },
+    {
+      "model": "Logistic Regression",
+      "accuracy": 0.43478260869565216,
+      "balanced_accuracy": 0.2777777777777778,
+      "macro_precision": 0.15873015873015872,
+      "macro_recall": 0.2777777777777778,
+      "macro_f1": 0.20202020202020202
+    }
+  ],
+  "important_caveat": "Experimental observational prediction, not evidence of causal learning gain or official FACP classification."
+}

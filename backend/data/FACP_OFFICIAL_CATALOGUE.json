@@ -1,0 +1,5866 @@
+[
+  {
+    "level": "Preprimary",
+    "domain": "Personal",
+    "items": [
+      {
+        "number": 1,
+        "text": "Chews and swallows solid food when placed in his mouth.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Holds and drinks water or milk or juice from a glass or cup.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Eats by self with fingers when food is mixed and given.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Sits on potty or squats to pass urine or stools.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Indicates verbally or through gestures the need to go to the toilet.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Takes off under clothes to use toilet (when unbuttoned/pulling elastic pants).",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Brushes teeth either with tooth brush or with a finger using tooth paste or tooth powder.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Cooperates while being bathed - extending hands/legs when told.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Takes off clothes (including under garments) when unbuttoned.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Wears undergarments.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Cleans nose with a handkerchief.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Washes hands before eating snacks or food or when hands are dirty.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Wipes with a towel after bath.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Peels off fruits such as orange and banana before eating.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Eats with an appropriate side dish such as bread & jam, chapati & curry, Idli & chutney.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Mixes and eats by self without spilling.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Wipes hand and mouth with a towel after washing.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Wears slippers.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Wears shoes without shoe lace or buckle.",
+        "page": 7,
+        "section": null,
+        "id": "FACP-PREPRIMARY-PERSONAL-019",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Preprimary",
+    "domain": "Social",
+    "items": [
+      {
+        "number": 1,
+        "text": "Moves head or eyes to see persons moving near him or in the room.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Responds to his name by stopping an activity or looking at the person when called,",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Goes to a familiar person when asked to come near him.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Smiles when other person smiles at him.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Plays with two other children cooperatively.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Waits for his turn in the classroom, play ground, dining room.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Shares his things (pencil, books, eraser, toys and eatables) when requested by his classmates or others.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Greets teachers or elders in school or at home.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Differentiates strangers from familiar people.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Expresses anger or displeasure by vocalizations (shouting! turning away! screaming) other than crying.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Stops momentarily an activity when said 'no'.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Uses vocal sounds/gestures/actions to call a person/to get attention of others.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Responds appropriately to words alongwith gestures such as come, up, go, bye-bye, etc.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Uses gestures such as shaking head for 'no', head nodding for 'yes' hand gesture for 'come', 'give', 'sleep', 'tata'.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Follows simple verbal requests with gestures such as 'give', 'I will take' (response could be gestural or verbal).",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Uses words such as 'mama', 'nana', 'deedi', 'bow bow', etc.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Follows simple commands without gestures like 'where is the ball', 'put that down', 'bring the ball'.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Answers questions such as 'how does a car go', 'how does an aeroplane go', 'how do you apply face powder', (responses inmiming fashion).",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Identifies persons by pointing or naming upon request (eg. uncle, aunty, sister, brother, etc.).",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Asks for desired objects using gestures/alongwith vocalizations.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Tells him name when asked.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-021",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 22,
+        "text": "Gestures/says suitably for Namaste!salam/good morning.",
+        "page": 11,
+        "section": null,
+        "id": "FACP-PREPRIMARY-SOCIAL-022",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Preprimary",
+    "domain": "Academic",
+    "items": [
+      {
+        "number": 1,
+        "text": "Points/shows body parts (head, nose, eyes, ears, hands, legs) when requested.",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Names body parts when pointed to.",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Points to 10 common objects with which he has to interact in his/her home environment (eg.rice, dali, chapati, light, fan, mat, table, chair, shirt/frock, shorts/pants,etc.), when asked or when he wants.",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Says orally the names of the 10 common objects when shown or when he wants.",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Holds pencil and scribbles.",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Colours with a crayon within a given diagram.",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Traces on the given diagram.",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Joins dots to form pictures.",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Copies a given figure/diagram.",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Groups common colours (red, green, blue, yellow) when given a group of coloured objects.",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Groups objects according to the size (big and small, long and short).",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Gives objects/pictures of common colours when asked.",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Names common colours. (red, green, blue, yellow)",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Points to the objects which are big and small/long and short upon request.",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Tells the size of the objects (big & small, long & short).",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Points to sets of objects to show more/less quantity.",
+        "page": 15,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Tells which set has more/less quantity.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Points to containers with either solids/liquids to show full and empty.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Tells when a container is shown either full or empty with or without liquid or solid.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Rotc counts upto 5.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Counts and gives objects upto 5 when not asked sequentially.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-021",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 22,
+        "text": "Counts and gives objects upto 10 when nOt asked sequentially.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-022",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 23,
+        "text": "Shows a numeral and places value when not asked sequentially. S",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-023",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 24,
+        "text": "Names upto 5 numbers when not asked sequentially.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-024",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 25,
+        "text": "Writes numerals upto 5 in a sequence.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-025",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 26,
+        "text": "Writes numerals upto 5 when given dictation not sequentially.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-026",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 27,
+        "text": "Points to alphabets (English/regional language) on a chart not asked sequentially (3 letter words in case of sight word teaching).",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-027",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 28,
+        "text": "Names alphabets when asked not sequentially (3 letter words in case of sight word teaching).",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-028",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 29,
+        "text": "Writes alphabets when given dictation (3 letter words in case of sight word teaching).",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-029",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 30,
+        "text": "Identifies a clock or wrist watch.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-030",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 31,
+        "text": "Tells/points to when asked the use of clock or wrist watch.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-031",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 32,
+        "text": "Dilftrentiates money from other objects.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-032",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 33,
+        "text": "Tells/points to when asked the use of money.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-033",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 34,
+        "text": "Groups Rs.1, 2, 5 notes when given.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-034",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 35,
+        "text": "Gives 1, 2, 5 rupee notes when asked.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-035",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 36,
+        "text": "Points/tells when asked by showing Rs.1, 2, 5 notes.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-036",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 37,
+        "text": "Uunts and gives 1 rupee notes upto Rs.5 when asked.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-037",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 38,
+        "text": "Points to atleast 5 pictures of animals when asked.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-038",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 39,
+        "text": "Names atleast 5 enimals when shown pictures.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-039",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 40,
+        "text": "Points to atlcast 5 pictures of fruits when asked.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-040",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 41,
+        "text": "Names atlcast 5 fruits when shown pictures.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-041",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 42,
+        "text": "Tells/points to the clothes (frock, shorts, shirt, T-shirt)he/she wears when asked.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-042",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 43,
+        "text": "Uses words or gestures for 'now and later' when necessary.",
+        "page": 17,
+        "section": null,
+        "id": "FACP-PREPRIMARY-ACADEMIC-043",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Preprimary",
+    "domain": "Occupational",
+    "items": [
+      {
+        "number": 1,
+        "text": "Dusts with a duster the furniture in the classroom and home.",
+        "page": 19,
+        "section": null,
+        "id": "FACP-PREPRIMARY-OCCUPATIONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Washes glasses and plates before and after meals.",
+        "page": 19,
+        "section": null,
+        "id": "FACP-PREPRIMARY-OCCUPATIONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Wipes glasses and plates with a cloth after washing",
+        "page": 19,
+        "section": null,
+        "id": "FACP-PREPRIMARY-OCCUPATIONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Folds small clothes (such as hand towellpanties).",
+        "page": 19,
+        "section": null,
+        "id": "FACP-PREPRIMARY-OCCUPATIONAL-004",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Preprimary",
+    "domain": "Recreational",
+    "items": [
+      {
+        "number": 1,
+        "text": "Watches T.V. advertisements.",
+        "page": 21,
+        "section": "Indoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Dances/claps/taps with rhythm of music in Radio or T.V.",
+        "page": 21,
+        "section": "Indoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Plays with block - assembling and dismantling.",
+        "page": 21,
+        "section": "Indoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Colours with pencils or crayons.",
+        "page": 21,
+        "section": "Indoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Plays make believe games - pretending to be teacher, mummy, daddy or elder sibling going to school/household keeping.",
+        "page": 21,
+        "section": "Indoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Arranges own things in their appropriate places, in a given room.",
+        "page": 21,
+        "section": "Indoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Sees pictures in magazines without tearing the book.",
+        "page": 21,
+        "section": "Indoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 1,
+        "text": "Plays with ball.",
+        "page": 21,
+        "section": "Outdoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Plays running and catching game/runs a race/duck walking/frog jumping, etc.",
+        "page": 21,
+        "section": "Outdoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Climbs jungle gym etc.",
+        "page": 21,
+        "section": "Outdoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Sand play.",
+        "page": 21,
+        "section": "Outdoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Water play.",
+        "page": 21,
+        "section": "Outdoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Plays hide and seek game/passing the parcel/musical chairs, etc.",
+        "page": 21,
+        "section": "Outdoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Plays on a slide.",
+        "page": 21,
+        "section": "Outdoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Swings on a swing.",
+        "page": 21,
+        "section": "Outdoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Walks in the garden or open yard around.",
+        "page": 23,
+        "section": "Outdoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Enjoys going for a ride on cycle, scooter, bus or car.",
+        "page": 23,
+        "section": "Outdoor",
+        "id": "FACP-PREPRIMARY-RECREATIONAL-017",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Primary-I",
+    "domain": "Personal",
+    "items": [
+      {
+        "number": 1,
+        "text": "Walks by himself a distance of 10 feet to fetch an object.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Climbs up and down the stairs placing both feet on each step without support.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Climbs up and down the stairs placing alternate feet without support.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Turns/removes a door knob/latch/bolt and opens the door when he wants to go in/out of the room.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Cleans self after defecation.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Flushes or pours water after toiletting.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Wears clothes (including under garments)(may not fix fastener).",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Unfastens clothes: a) zip, b) press buttons, c) shirt buttons, d) hooks, e) untying / tape / lace / ribbon",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Fastens clothes: a) zip, b) press buttons, c) shirt buttons, d) hooks, e) tying/tape/lace/ribbon",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Eats by self a complete meal without spilling.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Asks/points to curries (vegetable, dal, sambar, etc.) when he wants more.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Makes arrangements for lunch and dinner either on table/ floor.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Takes water from the pot/tap to drink when he is thirsty.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Serves water to others.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Washes hands before eating snacks or food or after using toilet or when hands are dirty.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Washes face with soap and water.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Wipes hands and face with a towel after washing.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Cleans nose with a handkerchief when needed.",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Applies soap on the body while bathing..",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Applies powder (and fixes bindi - in case of girls).",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Combs/ brushes hair and puts rubber band after removing tangled hair (in case of girls).",
+        "page": 27,
+        "section": null,
+        "id": "FACP-PRIMARY-I-PERSONAL-021",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Primary-I",
+    "domain": "Social",
+    "items": [
+      {
+        "number": 1,
+        "text": "When given a chance makes a choice between two activities or between two items.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Performs the activity requested by teachers and parents.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Asks for permission to use a toy or other material which does not belong to him.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Participates in a group game in which 4 to 5 children are involved.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Waits for his turn while playing games.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Shares play material during group games.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Maintains appropriate manners when taken to social functions.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Takes care of his own belongings in school (Eg.School bag, lunch box, pencil box).",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Defends/seeks assistance when injured or teased by others.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Recognizes that the speaker is angry, tired, sad, happy, etc.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Names body parts when pointed to.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Uses combination of words or gestures to express his need or wish.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Answers (verbally! gesturally) to question 'Whose is' by pointing to self or others correctly.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Carries out two consecutive instructions/commands.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Names members of the family like brother, sister, aunt, uncle.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Uses 2-3 word sentence to communicate information (if nonverbal makes self understood by gestures).",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Asks for help (verbally or gesturally) fc'r personal needs.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Follows messages involving prepositions such as under, behind, infront. (Put the bag infront of the boy).",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Uses correct gender term when asked. Are you (or pointed person) a boy or girl?",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Can say plural forms of names. Eg.Chairs, pencils, books.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Can follow instructions of a task without visual clues or gestures.",
+        "page": 29,
+        "section": null,
+        "id": "FACP-PRIMARY-I-SOCIAL-021",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Primary-I",
+    "domain": "Academic",
+    "items": [
+      {
+        "number": 1,
+        "text": "Reads alphabets (English or any other regional language) when shown a chart/book. (Words incase of sight word teaching).",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Reads words (vegetables, fruits, furniture, animals) seeing a picture.",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Reads 2 - 3 letter words without a clue (picture) (about 10).",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Reads his name.",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Reads his friend's names in his class.",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Reads four sign boards which are essential for independent mobility.",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Writes his name.",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Writes names of words (vegetables, fruits, animals, furniture, clothes).",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Tells functions of sense organs.",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Counts and gives objects upto 10 when not asked sequentially.",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Shows a numeral when not asked sequentially upto 10.",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Names numbers upto 10 when not asked sequentially.",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Writes numerals upto 10 when given dictation randomly.",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Writes numerals upto 10 in a logical sequence.",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Writes missing numbers before and after upto 10.",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Does simple addition within 10 with objects (without paper).",
+        "page": 31,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Does simple addition within 10 on paper using slash marks.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Gives exact number of objects when asked upto 20.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Expands the numbers from 11-20 (Eg. 11 = 10 & 1).",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Points to numerals upto 20 when not asked sequentially.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Names numbers upto 20 when not asked sequentially.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-021",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 22,
+        "text": "Writes numerals upto 20 when given dictation.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-022",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 23,
+        "text": "Writes numerals upto 20 in a sequence.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-023",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 24,
+        "text": "Writes missing numbers after and before upto 20.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-024",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 25,
+        "text": "Counts in tens upto 100 (10, 20, 30 100).",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-025",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 26,
+        "text": "Groups in tens to make 20, 30,..100.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-026",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 27,
+        "text": "Associates time with daily activities.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-027",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 28,
+        "text": "Tells/shows on a calendar/chart the name of the day when asked what day is today, what day will be tomorrow and what day was yesterday.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-028",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 29,
+        "text": "Tells/gestures in order what he does from morning till he goes to bed.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-029",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 30,
+        "text": "Tells his age/points to self when asked who is",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-030",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 31,
+        "text": "Tells/gestures the number of days in a week.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-031",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 32,
+        "text": "Tells the number of months in a year.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-032",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 33,
+        "text": "Indicates the date on the calender.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-033",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 34,
+        "text": "Changes the date and month on a calender stand correctly.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-034",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 35,
+        "text": "Tells the position of long and short hand on a clock when asked.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-035",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 36,
+        "text": "Shows on a clock time in hours when asked.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-036",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 37,
+        "text": "Tells time in hours seeing a clock/wrist watch.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-037",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 38,
+        "text": "Shows on a clock the time in half hours (7.30, 8.30).",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-038",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 39,
+        "text": "Tells time in half hour (4.30, 5.30) seeing a clock/wrist watch.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-039",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 40,
+        "text": "Gets ready to come to school in time.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-040",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 41,
+        "text": "Identifies coins (1 rupee, 5Op, 25p, lOp, 5p).",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-041",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 42,
+        "text": "Tells names of coins.",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-042",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 43,
+        "text": "Identifies rupee notes (Rs.l, 2 upto 10).",
+        "page": 33,
+        "section": null,
+        "id": "FACP-PRIMARY-I-ACADEMIC-043",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Primary-I",
+    "domain": "Occupational",
+    "items": [
+      {
+        "number": 1,
+        "text": "Dusts with a duster cloth the furniture and the other items in the house.",
+        "page": 35,
+        "section": null,
+        "id": "FACP-PRIMARY-I-OCCUPATIONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Sorts out vegetales and places them in respective container/ baskets/ in a fridge.",
+        "page": 35,
+        "section": null,
+        "id": "FACP-PRIMARY-I-OCCUPATIONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Places plates and glass suitably on the dining table/floor for breakfast/ lunch/dinner, when told.",
+        "page": 35,
+        "section": null,
+        "id": "FACP-PRIMARY-I-OCCUPATIONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Washes plates and glasses after eating food/snacks.",
+        "page": 35,
+        "section": null,
+        "id": "FACP-PRIMARY-I-OCCUPATIONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Peels vegetables such as beans, onions, boiled potatoes, peas, etc. where knife / scrapper are not used.",
+        "page": 35,
+        "section": null,
+        "id": "FACP-PRIMARY-I-OCCUPATIONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Carries water in a small bucket from the tap or when required! asked by family members.",
+        "page": 37,
+        "section": null,
+        "id": "FACP-PRIMARY-I-OCCUPATIONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Stacks utensils in the kitchen after washing.",
+        "page": 37,
+        "section": null,
+        "id": "FACP-PRIMARY-I-OCCUPATIONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Serves plates with snacks/food to family members.",
+        "page": 37,
+        "section": null,
+        "id": "FACP-PRIMARY-I-OCCUPATIONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Separates leaves in the leafy vegetables.",
+        "page": 37,
+        "section": null,
+        "id": "FACP-PRIMARY-I-OCCUPATIONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Helps mother in kitchen in coffee when told. bringing cooking items such as vegetables/ingredi5 measuring water for making teal",
+        "page": 37,
+        "section": null,
+        "id": "FACP-PRIMARY-I-OCCUPATIONAL-010",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Primary-I",
+    "domain": "Recreational",
+    "items": [
+      {
+        "number": 1,
+        "text": "Plays common games like snakes & ladder, five stones, with 2-3 children",
+        "page": 37,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "(with only 2 specific rules). Watches T.V. programmes for 15 to 30 minutes.",
+        "page": 37,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Builds blocks to copy a given model (3 to 8 pieces).",
+        "page": 37,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Draws simple figures and colours them.",
+        "page": 37,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Cuts and pastes pictures from old magazines to make a scrap book\\collage",
+        "page": 37,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "work (when assisted while cutting). Collects stamps/stickers",
+        "page": 37,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Assembles (Logo) games/puzzle.",
+        "page": 37,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Looks through picture books or comics. Not interested",
+        "page": 37,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Arranges room, by placing objects in their respective place.",
+        "page": 39,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Feeds and cares for pets (under supervision).",
+        "page": 39,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 1,
+        "text": "Plays by passing/throwing and catching the ball.",
+        "page": 39,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Flies kites, plays marble games.",
+        "page": 39,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Plays games like, police and thief, land and sea, four corners or seven stones.",
+        "page": 39,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Waters plants.",
+        "page": 39,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Goes for a walk outside or visit friends house alone in same area / colony of living.",
+        "page": 39,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Plays aiming of darts at the bull's eye/bucketing the ball, etc.",
+        "page": 39,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Climbs jungle gym, trees or other similar structures.",
+        "page": 39,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Plays hopping game governed by rules.",
+        "page": 39,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Goes with adults for shopping.",
+        "page": 39,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Goes out to restaurant/theatres with adults.",
+        "page": 39,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-I-RECREATIONAL-020",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Primary-II",
+    "domain": "Personal",
+    "items": [
+      {
+        "number": 1,
+        "text": "Walks by himself a distance of 10 feet to fetch an object.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Climbs up and down the stairs placing both feet on each step without support.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Climbs up and down the stairs placing alternate feet without support.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Unlatches a door to open when he wants to go in/out of the room.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Holds and drinks liquids from a glass or cup.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Takes water from the pot/tap to drink when he is thirsty.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Serves water to others.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Eats apporpriately with the side dish such as bread & jam, chapati and curry, Idli & chutney.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Eats by himself with fingers when food is mixed and given.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Mixes and eats by self without spilling.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Asks for curries (vegetable, dal, sambar, etc. ) when he wants more.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Makes arrangements (placing plates, cup/glass..) for lunch and dinner on table/floor.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Sits on potty or squats to pass urine or stools.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Indicates verbally or through gestures the need to go to the toilet.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Takes off under clothes to use toilet.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Cleans self after defecation.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Flushes or pours water after toiletting.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Brushes teeth with tooth brush/with a finger using tooth paste/tooth powder.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Takes off shirt/pant/frock, etc. when unbuttoned.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Wears clothes (including under garments) except buttoning.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Unfastens clothes: a) zip, b) press buttons, c) shirt buttons, d) hooks, e) untying/tape/lace/ribbin",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-021",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 22,
+        "text": "Fastens clothes: a) zip, b) press buttons, c) shirt buttons, d) hooks, e) tying/tape/lace/ribbon",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-022",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 23,
+        "text": "Washes hands before eating snacks or food or after using toilet or whenhands are dirty.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-023",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 24,
+        "text": "Washes face with soap and water.",
+        "page": 43,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-024",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 25,
+        "text": "Wipes hands and face after washing.",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-025",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 26,
+        "text": "Cleans nose with a handkerchief when needed.",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-026",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 27,
+        "text": "Applies soap on the body while bathing.",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-027",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 28,
+        "text": "Wipes self with a towel after bath.",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-028",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 29,
+        "text": "Applies powder (and fixes bindi - in case of girls).",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-029",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 30,
+        "text": "Combs/brushes hair (puts rubber band after removing tangled hair in case of girls).",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-PERSONAL-030",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Primary-II",
+    "domain": "Social",
+    "items": [
+      {
+        "number": 1,
+        "text": "Responds to his name looking at the person when called.",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Goes to a familiar person when asked to come near him.",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Smiles in response to an other person's smile at him.",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Plays with two other children cooperatively.",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Stops momentarily an activity when said 'no' (atleast half a number of times).",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Waits for his turn in the classroom/play ground/dining room. others.",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Shares his things (pencil, books, eraser, toys and eatables) when requested by his classmates or",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Greets teachers or elders in school or at home.",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "When given a chance makes a choice between two activities or between two items.",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Performs the activity requested by teachers and parents.",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Asks for permission to use a toy or other material which does not belong to him.",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Participates in a group game in which 4 to 5 children are involved.",
+        "page": 45,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Waits for his turn while playing games.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Shares play material during group games.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Maintains appropriate manners when taken to functions.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Takes care of his own belongings in school (Eg. school bag, lunch box, pencil box).",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Asks for assistance when injured by others.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Reacts appropriately after recognizing that the speaker is angry, tired, sad, happy, etc.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Expresses anger or displeasure by vocalization.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Uses vocal sounds/gestures/actions! words to call a person/to get attention of others.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Responds appropriately when used gestures/words such as come, up, go, bye-bye, etc.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-021",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 22,
+        "text": "Says/Uses gestures such as shaking head appropriately for 'no', and 'yes', hand gesture for 'come', 'give', 'sleep', 'tata'.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-022",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 23,
+        "text": "Follows simple verbal requests with gestures such as 'give', 'I will take' (response could be gestural or verbal).",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-023",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 24,
+        "text": "Uses words such as 'mama', 'nana', 'deedi', 'bow bow', etc.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-024",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 25,
+        "text": "Follows simple verbal commands without gestures like 'Where is the ball', 'Put that down', 'Bring the ball'.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-025",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 26,
+        "text": "Uses combination of words or gestures to express his need or wish.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-026",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 27,
+        "text": "Answers (verbally!gesturally) to question 'Whose is' by pointing to self or others correctly.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-027",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 28,
+        "text": "Identifies persons by pointing to them or naming upon request (eg. Uncle, aunty, sister, brother, etc.).",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-028",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 29,
+        "text": "Asks for desired objects using gesture vocalization.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-029",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 30,
+        "text": "Names members of the family like brother, sister, aunt, uncle.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-030",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 31,
+        "text": "Uses 2-3 word sentences to state information (if nonverbal makes self understood by gestures).",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-031",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 32,
+        "text": "Asks for help (verbally or gesturally) for personal needs.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-032",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 33,
+        "text": "Follows instructions of a task without visual clues or gestures.",
+        "page": 47,
+        "section": null,
+        "id": "FACP-PRIMARY-II-SOCIAL-033",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Primary-II",
+    "domain": "Academic",
+    "items": [
+      {
+        "number": 1,
+        "text": "Points to body parts (head, nose, eyes, ears, hands, legs) when requested.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Names body parts when pointed to. has to interact in his/her home environment (eg. rice, dali, chapati,",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Points to 10 common objects with which he light, fan, mat, table, chair).",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "When needed asks for common objects (mentioned above).",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Says orally the names of the 10 common objects when shown.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Holds pencil and scribbles.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Colours with a crayon within a given diagram.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Traces on the given diagram.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Joins dots to form pictures.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Copies a given figure/diagram. colours when given a group of coloured objects.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Groups three common (red, green, yellow)",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Groups objects according to the size (big and small, long and short). black, white) common colours when asked.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Gives objects/pictures of atleast six (red, blue, yellow, green,",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Points out the objects which are big and small.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Counts to give objects upto 10. the numbers in between when asked.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Reads numbers upto 10 including pointing",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Tells/gestures day or night when asked.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Tells/points the names of week days in a logical order.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Identifies a clock or ist watch.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Tells/points to when asked the use of clock or wrist watch.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Differentiates money from other objects.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-021",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 22,
+        "text": "Tells/gestures when asked for the use of money.",
+        "page": 49,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-022",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 23,
+        "text": "Shows long and short objects when asked.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-023",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 24,
+        "text": "Tells/gestures which one has more/less quantity of things! liquids.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-024",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 25,
+        "text": "Points/Names to atleast 5 pictures of animals when asked.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-025",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 26,
+        "text": "Points/Names to atleast 5 pictures of fruits when asked.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-026",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 27,
+        "text": "Tells/points to the clothes (frock, nikkar, shirt, T-shirt) he/she wears when asked.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-027",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 28,
+        "text": "Uses words or gestures for 'now and later' when necessary.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-028",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 29,
+        "text": "Names/gestures the various means of transport (cycle, auto, cycle rikshaw, bus, car, lorry, aeroplane, train).",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-029",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 30,
+        "text": "Read his name.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-030",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 31,
+        "text": "Writes his hame.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-031",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 32,
+        "text": "Associates time with daily activities.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-032",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 33,
+        "text": "Tells/gestures sequentally what he does from morning till he goes to bed.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-ACADEMIC-033",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Primary-II",
+    "domain": "Occupational",
+    "items": [
+      {
+        "number": 1,
+        "text": "Dusts with a duster cloth the furniture and the other items in the house.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-OCCUPATIONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Washes glasses and plates before and after meals.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-OCCUPATIONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Sorts out vegetables and places them in respective container/fridge.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-OCCUPATIONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Gets in/out of bus independently when told.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-OCCUPATIONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Waters plants using a water can/hose pipe.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-OCCUPATIONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Sweeps floor with a broom stick.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-OCCUPATIONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Eats without calling the attention of others.",
+        "page": 51,
+        "section": null,
+        "id": "FACP-PRIMARY-II-OCCUPATIONAL-007",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Primary-II",
+    "domain": "Recreational",
+    "items": [
+      {
+        "number": 1,
+        "text": "Plays common games like snakes & ladder, five stones, with 2-3 children (with only 2 specific rules).",
+        "page": 53,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Watches T.V. programmes for l5to 30 minutes.",
+        "page": 53,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Builds blocks to copy a given model (3 to 8 pieces).",
+        "page": 53,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Draws simple figures and colours them.",
+        "page": 53,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Cuts and pastes pictures from old magazines to make a scrap book/collage work (when assisted while cutting).",
+        "page": 53,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Collects stamps/stickers.",
+        "page": 53,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Assembles (Lego) games/puzzle.",
+        "page": 53,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Looks through picture books or comics.",
+        "page": 53,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Arranges room, by placing objects in their respective place.",
+        "page": 55,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Feeds and cares for pets (under supervision).",
+        "page": 55,
+        "section": "Indoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 1,
+        "text": "Plays by passing/throwing and catching the ball.",
+        "page": 55,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Flies kites, plays marble games.",
+        "page": 55,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Plays games like, police and thief, land and sea, four corners or seven stones.",
+        "page": 55,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Waters plants.",
+        "page": 55,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Goes for a walk outside or visit friends house alone in same colony/area.",
+        "page": 55,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Plays aiming of darts at the bull's eye/bucketing the ball, etc.",
+        "page": 55,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Climbs jungle gym, trees or other similar structures.",
+        "page": 55,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Plays hopping game governed by rules.",
+        "page": 55,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Goes with adults for shopping.",
+        "page": 55,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Goes out to restaurant/theatres with adults.",
+        "page": 55,
+        "section": "Outdoor",
+        "id": "FACP-PRIMARY-II-RECREATIONAL-020",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Secondary",
+    "domain": "Personal",
+    "items": [
+      {
+        "number": 1,
+        "text": "Folds paper (note book size) into tour parts (like folding an inland).",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Folds paper to fit into an envelope and seals it.",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Uses toilet on his/her own when necessary without any body's assistance.",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Takes bath (including soaping, washing and wiping with a towel) closing the door for privacy by himself.",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Combs hair.",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Combs hair and puts a rubber band.",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Plaits hair and puts a rubber band.",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Applies powder (and bindi, kajal also in case of girls).",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Wears clean clothes.",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Chooses clothes appropriate to the weather conditions.",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Dresses and grooms suitably to go out.",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Places dirty clothes for washing.",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Cleans his own tiffin box, plate, glass and spoon after eating.",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Informs the family members the arrival of a visitor.",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Identifies himself with boys/identifies herself with girls.",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Tells to which group he/she belongs.",
+        "page": 60,
+        "section": null,
+        "id": "FACP-SECONDARY-PERSONAL-016",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Secondary",
+    "domain": "Social",
+    "items": [
+      {
+        "number": 1,
+        "text": "Asks politely to pass on the dishes he wants while having a meal.",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Goes by walk to a shop or play ground or friend's house in 1km. periphery of the neighbourhood and returns.",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Buys two items written on a chit from the shop near to his house (may not know account).",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "When required introduces himself to new people who come to his house.",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Greets and asks relatives or family friends to be seated when they come to their house.",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Reads directions on the street/bus route details and follows.",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Reads sign boards.",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Reads the price labels on items (Rs.10.25, Rs.11.15).",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Buys correct postage from the post office when told.",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Tells/gestures that he requires money to travel by bus, auto, taxi, train and aeroplane.",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Points out/tells items of his choice in the restaurant.",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "During conversation asks relevant questions.",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Remembers information/messages and passes on appropriately to concerned person (verbal/gestural).",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Narrates in 2-3 sentences about a past event without prompts (if nonverbal makes self understood by gestures and actions).",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Follows verbal directions to move from place to place within a building.",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Spontaneously tries to express ideas to other people or narrates incidents.",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Appropriately uses past, present and future tenses of verbs in sentences.",
+        "page": 62,
+        "section": null,
+        "id": "FACP-SECONDARY-SOCIAL-017",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Secondary",
+    "domain": "Academic",
+    "items": [
+      {
+        "number": 1,
+        "text": "Reads names of vegetables, fruits, ingredients, pulses, clothes, etc.",
+        "page": 64,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Reads names of week days.",
+        "page": 64,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Reads names of months.",
+        "page": 64,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Does simple addition (one digit) when given either vertically or horizontally (2 + 3).",
+        "page": 64,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Does simple subtraction (one digit).",
+        "page": 64,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Does two digit addition without carry over.",
+        "page": 64,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Does two digit subtraction without borrowing.",
+        "page": 64,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Able to relate the computations to daily living situation.",
+        "page": 64,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Writes names of atleast 5 vegetables, fruits, clothes, ingredients, pulses. (Specify)",
+        "page": 64,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Writes names of week days when dictated.",
+        "page": 64,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Writes names of month names when dictated.",
+        "page": 64,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Writes two word phrases when dictated.",
+        "page": 64,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Writes date, month and year in his note book/board.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Writes date, month and year while writing a leave letter application form/cheque.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Tells/gestures what day is today.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Tells time when long hand is at 3, 6, 9, 12.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Tells time with minutes in multiples of 5.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Counts one rupee coins and notes upto Rs.10.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Gives change in one rupee for Rs.2, Rs.5, and Rs.10.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Pays bills upto Rs.10 in any form of combination of Rs.i, 2 and 5.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Groups the coins (SOp, 25p, lop) to make one rupee.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-021",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 22,
+        "text": "Gives upto Rs.5 by grouping into one rupee from mixed coins.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-022",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 23,
+        "text": "Groups coins (2Op, lOp, 5p) to make change such as 35p, 45p, 65p.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-023",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 24,
+        "text": "Gives change upto Rs.1.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-024",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 25,
+        "text": "Gives change upto Rs.5.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-025",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 26,
+        "text": "Gives change upto Rs.10.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-026",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 27,
+        "text": "Writes amount larger than one rupees with decimals.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-027",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 28,
+        "text": "Does addition with carry over (3 and more line 2 digit).",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-028",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 29,
+        "text": "Does subtraction involving borrowing (2 digit/3 digit).",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-029",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 30,
+        "text": "Identifies/names 1 litre/l kg. measuring jars/weighing stone.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-030",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 31,
+        "text": "Tells the use of balance.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-031",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 32,
+        "text": "Measures kg. of vegetables and pulses.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-032",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 33,
+        "text": "Identifies/names a measuring rod/ tape.",
+        "page": 66,
+        "section": null,
+        "id": "FACP-SECONDARY-ACADEMIC-033",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Secondary",
+    "domain": "Occupational",
+    "items": [
+      {
+        "number": 1,
+        "text": "Climbs a ladder to clean or dust the house or paint wall.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Wipes kitchen wear with a cloth after cleaning.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Sweeps floor with a broom stick.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Eats without calling the attention of others.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Picks up items in a super market as per the written or pictorial list and carries to the cash counter.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Reads bills, receipts.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Writes small notes, shopping list when dictated.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Takes phone messages.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Goes to the market/general store to buy provisions.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Makes flower garlands using thread and needle.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Cleans rice and other pulses.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Prepares coffee/tealjuice.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Prepares simple snacks such as, sandwitch, upma, chapati.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Cuts vegetables into small pieces.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Peals potatoes, cucumber and other vegetables when required.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Prepares a salad.",
+        "page": 68,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Lights gas stove/kerosene on her own.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Serves breakfast to family members.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Arranges dishes on the dinning table before lunch and dinner.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Cleans table after eating food.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Dusts furniture, cupboards and other items in the house with a duster.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-021",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 22,
+        "text": "Wipes floor with a wet cloth.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-022",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 23,
+        "text": "Washes utencils and puts them in respective places.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-023",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 24,
+        "text": "Spreads clothes on a clothes line after washing.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-024",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 25,
+        "text": "Folds clothes after drying and places them in almarah.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-025",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 26,
+        "text": "Folds bed sheets and places them in proper place.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-026",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 27,
+        "text": "Makes bed on his own.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-027",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 28,
+        "text": "Washes rice, dali and vegetables when requested.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-028",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 29,
+        "text": "Decorates entrance/room with leaves, flowers an paper during festivals and social functions.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-029",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 30,
+        "text": "Draws or uses white powder to make rangoli designs (in case of girls).",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-030",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 31,
+        "text": "Makes flower arrangements in flower vases.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-031",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 32,
+        "text": "Goes to the correct bus stop to travel a given destination in familiar route.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-032",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 33,
+        "text": "Identifies the bus to reach his destination.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-033",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 34,
+        "text": "Buys ticket or shows bus pass to the conductor.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-034",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 35,
+        "text": "Finds a seat/request people for sitting place while travelling in bus/trainl or offers his seat to elders.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-035",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 36,
+        "text": "Gets down at the correct destination.",
+        "page": 70,
+        "section": null,
+        "id": "FACP-SECONDARY-OCCUPATIONAL-036",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Secondary",
+    "domain": "Recreational",
+    "items": [
+      {
+        "number": 1,
+        "text": "Watches T.V. serials and follows the story sequence.",
+        "page": 72,
+        "section": "Indoor",
+        "id": "FACP-SECONDARY-RECREATIONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Plays games like ludo, chinese checkers, snakes and ladders.",
+        "page": 72,
+        "section": "Indoor",
+        "id": "FACP-SECONDARY-RECREATIONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Selects specific cassette or radio station and operates record player/radio independently.",
+        "page": 72,
+        "section": "Indoor",
+        "id": "FACP-SECONDARY-RECREATIONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Plays a musical instrument or sings.",
+        "page": 72,
+        "section": "Indoor",
+        "id": "FACP-SECONDARY-RECREATIONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Dances/claps/taps with tune when music is played (or shows signs of enjoying music).",
+        "page": 72,
+        "section": "Indoor",
+        "id": "FACP-SECONDARY-RECREATIONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Arranges flowers in vases.",
+        "page": 72,
+        "section": "Indoor",
+        "id": "FACP-SECONDARY-RECREATIONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Cares for pets. q",
+        "page": 72,
+        "section": "Indoor",
+        "id": "FACP-SECONDARY-RECREATIONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Practise crafts (doll making, greeting card making, origami, cut work on paper, needle work.",
+        "page": 72,
+        "section": "Indoor",
+        "id": "FACP-SECONDARY-RECREATIONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 1,
+        "text": "Goes out for a picnic with family or friends (3-4 persons).",
+        "page": 74,
+        "section": "Outdoor",
+        "id": "FACP-SECONDARY-RECREATIONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Involves in plant care and gardening.",
+        "page": 74,
+        "section": "Outdoor",
+        "id": "FACP-SECONDARY-RECREATIONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Goes out to see a film, accompanied by one or more family members.",
+        "page": 74,
+        "section": "Outdoor",
+        "id": "FACP-SECONDARY-RECREATIONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Plays racquet games/cricket/other rule governed games with ball (specify).",
+        "page": 74,
+        "section": "Outdoor",
+        "id": "FACP-SECONDARY-RECREATIONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Goes out for a walk (accompanied).",
+        "page": 74,
+        "section": "Outdoor",
+        "id": "FACP-SECONDARY-RECREATIONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Participates in social gatherings organised by friends and relatives (accompanied).",
+        "page": 74,
+        "section": "Outdoor",
+        "id": "FACP-SECONDARY-RECREATIONAL-014",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Prevocational-I",
+    "domain": "Personal",
+    "items": [
+      {
+        "number": 1,
+        "text": "Stitches buttons.",
+        "page": 78,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-PERSONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Mends his clothes with a running stitch.",
+        "page": 78,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-PERSONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "When needed carries a medium size bucket with water.",
+        "page": 78,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-PERSONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Washes hair with soap or shampoo or soap nut powder.",
+        "page": 78,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-PERSONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Shaves beard to present himself neat (male). Manages herself during menustration (female).",
+        "page": 78,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-PERSONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Washes his clothes with soap cake or powder.",
+        "page": 78,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-PERSONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Irons his own clothes.",
+        "page": 78,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-PERSONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Applies ointment on a cut and bandages if necessary.",
+        "page": 78,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-PERSONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Tells/gestures illness and pain promptly to get assistance.",
+        "page": 78,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-PERSONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Follows the medical advice without reminder during illness.",
+        "page": 78,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-PERSONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Presents self neatly and suitably for varied occasions.",
+        "page": 78,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-PERSONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Uses public telephone when needed.",
+        "page": 78,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-PERSONAL-012",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Prevocational-I",
+    "domain": "Social",
+    "items": [
+      {
+        "number": 1,
+        "text": "Uses bicycle or walks independently for simple errands at request within 1 km. periphery around the house.",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Assists in moving heavy furniture in the house or work place.",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Finds a toilet on his own or by asking others in new places (such as relatives or friend's house, restaurant, cinema hail, bus station, railway station).",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Orders items of his choice in a restaurant or a hotel.",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Stands in a queue (for getting into bus, buying tickets or buying ration from a ration shop). I",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Asks for directions when needed.",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Participates age appropriately in social/religious activities without attracting undue attention.",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Expresses distress when in trouble and seeks help.",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Defends self when teased/exploited by others.",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Reads essential sign boards for getting the work done.",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Selects, buys, signs and sends cards to significant persons for new year and other occasions.",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Keeps appointments.",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Tells time upon request.",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Goes to a cinema hall, stands in a queue, buys ticket to see a film.",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Receives telephone calls and responds or passes on information when told to.",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Tells the name of the city/district! town/village where he is living.",
+        "page": 80,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-SOCIAL-016",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Prevocational-I",
+    "domain": "Academic",
+    "items": [
+      {
+        "number": 1,
+        "text": "Reads two words phrases.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Reads simple sentences.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Does two digit addition with carry over.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Does two digit subtraction with borrowing.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Aware of table 5.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Uses table 5 for time/money purposes.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Writes simple sentences when required.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Writes a list of items to buy from a general store.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Copies a paragraph (5-6 sentences) with punctuation.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Writes a letter.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Sets time on watch.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Buys things upto the value of 10 rupees.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Gives changte upto Rs.1.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Gives change upto Rs.5.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Gives change upto Rs.10.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Identifies/Names 2 kg, 5 kg, 10 kg, weighing stones.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Measures 2 kg, 5 kg, 10kg of items such as rice, pulses, vegetables.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Identifies 1/2 kg, 1/4 kg, weighing stones.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Measures 1/2 kg, 1/4 kg rice, pulses and vegetables.",
+        "page": 82,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Measures cloth in metres.",
+        "page": 84,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Adds the prices on a receipt upto Rs.5.",
+        "page": 84,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-021",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 22,
+        "text": "Adds the on a receipt upto Rs.iO.",
+        "page": 84,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-022",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 23,
+        "text": "Pays bills upto Rs.20 in any form of combination of Rs.1, 2, 5 and 10.",
+        "page": 84,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-023",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 24,
+        "text": "Pays bills upto Rs.50 in any form of combination of Rs.1, 2, 5, 10 and 20.",
+        "page": 84,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-024",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 25,
+        "text": "Indicates the body parts such as lungs, heart, kidneys, on a map or approximate place on self.",
+        "page": 84,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-025",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 26,
+        "text": "Describes in very simple terms the functions of lungs, heart,kidneys and blood vessels.",
+        "page": 84,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-026",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 27,
+        "text": "Tells the name of the Prime Minister/Chief Minister/Governor/President of India.",
+        "page": 84,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-027",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 28,
+        "text": "Names ones own country, state.",
+        "page": 84,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-028",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 29,
+        "text": "Tells/Indicates different sources of water.",
+        "page": 84,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-029",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 30,
+        "text": "Tells/Indicates the sources of milk products/oil.",
+        "page": 84,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-030",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 31,
+        "text": "Tells/Indicates the use of disinfectants.",
+        "page": 84,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-ACADEMIC-031",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Prevocational-I",
+    "domain": "Occupational",
+    "items": [
+      {
+        "number": 1,
+        "text": "(:lcans utensils ith washing powder or liquid soap.",
+        "page": 84,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Wipes floor with a wet cloth.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Stores rice and pulses in respective tins after shopping.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Cuts vegetables appropriately to prepare different dishes.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Prepares tea/coffee/juice.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Operates kerosene stove/gas stove.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Operates kitchen appliances (such as scraper, peeler, coconutgrater, mixi, grinder).",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Prepares upma, chapati, pun, idli, dosa.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Prepares rice and dali/curries.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Arranges dishes, plates, etc. on the dining table.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Washes clothes with soap/surf.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Folds clothes and stacks them in almarah.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Makes bed for sleeping.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Fetches vegetables and other household items from a nearby shop.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Gets ready to reach work place in time.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Describes the various transports.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Buys a ticket from the conductor/ticket counter.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Makes/renews bus pass.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Fills in personal information in an application form (ie. name, age, date of birth, address, father's name, sex,lan- guage spoken).",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Uses bank forms under guardian's supervision when required.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Fills railway booking form.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-021",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 22,
+        "text": "Upon request nurses family members during their illness.",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-022",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 23,
+        "text": "Does simple first aid (fixing band aid, applying pain balm).",
+        "page": 86,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-I-OCCUPATIONAL-023",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Prevocational-I",
+    "domain": "Recreational",
+    "items": [
+      {
+        "number": 1,
+        "text": "Shows interest in drawing and colouring work.",
+        "page": 88,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Plays carrom, card games (clearance, donkey), scrabble,chinese checkers.",
+        "page": 88,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Listens to selected music in cassette players or selecting a station at given time on radio or selecting appropriate channel on T.V. independently.",
+        "page": 88,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Participates in decorating the house for festivals or parties or special social occasions.",
+        "page": 88,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Gets dressed and puts on make-up or any activity for beauty care.",
+        "page": 88,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Arranges bouquets with natural/artificial flowers.",
+        "page": 88,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Spends time with peers chatting about various social incidents.",
+        "page": 88,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Involves or makes dolls, greeting cards, or any other craft activity.",
+        "page": 88,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Participates in doing needle work, embroidery, knitting/ crochet work etc.",
+        "page": 88,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Collects photos of favourite sports/film stars/botony collection/stamp, coin collection/collecting pebbles/arranges photos in an album.",
+        "page": 88,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 1,
+        "text": "Goes for a hike or camping trip.",
+        "page": 90,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Rides bicycle to visit friends or relatives or travel by bus to visit within 3 km. distance.",
+        "page": 90,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Attends a music concert/goes out for a play or a film.",
+        "page": 90,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Flies kites/plays kho-kho/kabadi/hopscotch.",
+        "page": 90,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Tends plants - gardening.",
+        "page": 90,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Develops/shows interest in martial skills like judo, karate, tykondo, etc./or and practice of dance/music.",
+        "page": 90,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Goes out to a restaurant with peers.",
+        "page": 90,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Plays racquet games (badminton, table tennis, lawn tennis, etc).",
+        "page": 90,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Plays rule governed ball games (basket ball, cricket, etc).",
+        "page": 90,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-I-RECREATIONAL-019",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Prevocational-II",
+    "domain": "Personal",
+    "items": [
+      {
+        "number": 1,
+        "text": "Uses toilet when necessary himself. washing and wiping with a towel) closing the door for privacy by",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Takes bath (including soaping,",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Washes hair independently.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Combs hair.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Plaits hair and puts a rubber band.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Wears clean clothes.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Choose clothes appropriate to the weather conditions.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Presents self neatly dressed and groomed to go out.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Places dirty clothes for washing.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Cleans his own tiffin box, plate, glass and spoon after eating.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Folds paper to fit into an envelope and seals it.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Stitches buttons.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Mends his clothes with a running stitch.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "When needed carries a medium size bucket with water.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Washes his clothes with soap cake/powder.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Irons his own clothes.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Tells/gestures illness and pain promptly to get assistance.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Applies ointment on a cut and bandages if necessary.",
+        "page": 94,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-PERSONAL-018",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Prevocational-II",
+    "domain": "Social",
+    "items": [
+      {
+        "number": 1,
+        "text": "Asks politely to pass on the dishes he wants while having a meal.",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Identifies himself with boys. Identifies herself with girls.",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Goes by walk to a shop or play ground or friend's house in 1km. periphery of the neighbourhood and returns.",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Buys two items written on a chit from the shop nearby (may not know account).",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Informs the family members the arrival of a visitor.",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "When required introduces himself to new people who comes to his house.",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Greets and asks relatives or family friends to be seated when they come to their house.",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Buys correct postage from the post office when told.",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Tells/gestures that he requires money to travel.",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "During conversation asks relevant questions.",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Remembers information/messages and passes on appropriately to concerned person (verbal/gestural).",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Narrates in 2-3 sentences about a past event without prompts (if nonverbal makes self understood by gestures and actions).",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Follows verbal directions to move from place to place within a building.",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Spontaneously tries to express ideas to other people or narrates incidents.",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Appropriately uses past, present and future tenses of verbs in sentences.",
+        "page": 96,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Speaks/expresses gesturally clearly enough to be understood by someone who is not familiar.",
+        "page": 98,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Finds a toilet on his own or by asking others in new places (such as relative or friend's house, restaurant, cinema hall, bus station, railway station).",
+        "page": 98,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Participates age appropriately in social/religious activities without attracting undue attention.",
+        "page": 98,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Expresses distress when in trouble and seeks help.",
+        "page": 98,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Defends self when teased/exploited by others. A",
+        "page": 98,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Reads essential sign boards for getting the work done.",
+        "page": 98,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-021",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 22,
+        "text": "Keeps appointments.",
+        "page": 98,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-022",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 23,
+        "text": "Tells time upon request.",
+        "page": 98,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-023",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 24,
+        "text": "Goes to a cinema hall, stands in a queue, buys ticket to see a film.",
+        "page": 98,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-SOCIAL-024",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Prevocational-II",
+    "domain": "Academic",
+    "items": [
+      {
+        "number": 1,
+        "text": "Reads names of 10 common objects which he comes across at home and at school (words should be with simple matras).",
+        "page": 98,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Reads names of week days.",
+        "page": 98,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Reads names of months.",
+        "page": 98,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Does addition when given cither horizontally or vertically (2 +3) within 10.",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Does subtraction within 10.",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Tells/gestures what day is today.",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Tells time when long hand is at 3, 6, 9, 12.",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Tells time with minutes in multiples of 5.",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Counts one rupee coins and notes upto Rs.10.",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Gives change in one rupee for Rs.2, Rs.5, and Rs.10.",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Reads price tags (Rs.0.50, Rs.1.25, Rs.10.00, Rs.5.35, etc.)",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Pays bills upto Rs.10 in any form of combination of Rs.1, 2and 5.",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Groups the coins (SOp, 25p, lop) to make one rupee.",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Gives upto Rs.5 by grouping into one rupee from mixed coins.",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Gives change upto Rs.1.",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Gives change upto Rs.5.",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Gives change upto Rs.1O.",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Reads price tags on items (RS. 10.25, Rs. 11.15)",
+        "page": 100,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-ACADEMIC-018",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Prevocational-II",
+    "domain": "Occupational",
+    "items": [
+      {
+        "number": 1,
+        "text": "Climbs a ladder to clean or dust the house or paint wall.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Dries/Folds clothes.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Wipes kitchen wear with a cloth after claning.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Sweeps floor with a broom stick.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Picks up items in a super market as per the written or pictorial list and carries to the cash counter.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Identifies/names 1 litre/i kg. measuring jars/weighing stone.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Tells the use of balance.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Measures 1 kg. of vegetables! pulses.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Identifies/Names a measuring rod/tape.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Goes to the market/general store to buy provisions.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Mkes flower garlands using thread and needle.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Cleans rice and other pulses.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Washes rice, dal and vegetables when requested.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Peals vegetables.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Cuts vegetables that do not require pealing (bindi, brinjal,etc.).",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Collects dried leaves and twigs and dumps them at a prescribed place.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Decorates entrance/room with leaves, flowers an paper during festivals and social functions.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Draws or uses white powder to make rangoli designs (in case of girls).",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Cleans,utensils with washing powder or liquid soap.",
+        "page": 102,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Puts off stove when told.",
+        "page": 104,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Wipes floor with a wet cloth.",
+        "page": 104,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-021",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 22,
+        "text": "Stores rice and pulses in respective tins after shopping.",
+        "page": 104,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-022",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 23,
+        "text": "Cuts vegetables appropriately upon request.",
+        "page": 104,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-023",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 24,
+        "text": "Prepares tea or coffee or juice.",
+        "page": 104,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-024",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 25,
+        "text": "Lights and regulates stove (gas/kerosene - specify)",
+        "page": 104,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-025",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 26,
+        "text": "Gets ready to reach work place in time.",
+        "page": 104,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-026",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 27,
+        "text": "Reads directions on the street, bus route details and follows.",
+        "page": 104,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-027",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 28,
+        "text": "Goes to the correct bus stop to travel to a given destination in familiar route.",
+        "page": 104,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-028",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 29,
+        "text": "Identifies the bus to reach his destination.",
+        "page": 104,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-029",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 30,
+        "text": "Buys ticket or shows bus pass to the conductor.",
+        "page": 104,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-030",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 31,
+        "text": "Finds a seat/request people for sitting place while travelling or offers his seat to elders.",
+        "page": 104,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-031",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 32,
+        "text": "Gets down at the correct destination.",
+        "page": 104,
+        "section": null,
+        "id": "FACP-PREVOCATIONAL-II-OCCUPATIONAL-032",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Prevocational-II",
+    "domain": "Recreational",
+    "items": [
+      {
+        "number": 1,
+        "text": "Shows interest in drawing and colouring work.",
+        "page": 106,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Plays carrom, card games (clearance, donkey), scrabble,chinese checkers.",
+        "page": 106,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Listens to selected music in cassette players or selecting a station at given time on radio or selecting appropriate channel on T.V. as per choice, independently.",
+        "page": 106,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Participates in decorating the house for festivals or parties or special social occasions.",
+        "page": 106,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Gets dressed and puts on make-up or any activity for beauty care.",
+        "page": 106,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Arranges bouquets with natural/artificial flowers.",
+        "page": 106,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Spends time with peers chatting about various social incidents.",
+        "page": 106,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Involves or makes dolls, greeting cards, or any other craftactivity.",
+        "page": 106,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Participates in doing needle work, embroidery, knitting/crochet work etc. collection/collecting pebbles/arranges photos in an album.",
+        "page": 106,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Collects photos of film stars/botony collection/stamp, coin",
+        "page": 106,
+        "section": "Indoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 1,
+        "text": "Goes for a hike or camping trip.",
+        "page": 106,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Rides bicycle to visit friends or relatives or travel by bus to visit within 3 km. distance.",
+        "page": 106,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Attends a music concert/goes out for a play or a film. Not interested Observes with interest, E =",
+        "page": 106,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Flies kites/plays kho-kho/kabadi/hopscotch.",
+        "page": 108,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Tends plants - gardening.",
+        "page": 108,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Develops martial skills like judo, karate, tykondo, etc. and practice of dance/music.",
+        "page": 108,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Goes out to a restaurant with peers.",
+        "page": 108,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Plays racquet games (badminton, table tennis, lawn tennis,etc).",
+        "page": 108,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Plays rule governed ball games (basket ball, cricket, etc).",
+        "page": 108,
+        "section": "Outdoor",
+        "id": "FACP-PREVOCATIONAL-II-RECREATIONAL-019",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Care Group",
+    "domain": "Personal",
+    "items": [
+      {
+        "number": 1,
+        "text": "Cries or makes body movement or gestures when he/she is hungry/thirsty.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Holds given objects in the hand momentarily.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Chews and swallows food if fed.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Sucks water if fed.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Eats dry foods like biscuits, chapati piece by self (may use modified aids).",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Cries or makes body movement or gesture when gets wet.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Cries or makes body movement or gestures for toilet need.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 8,
+        "text": "Holds object when given in hand and manipulates with awareness.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 9,
+        "text": "Indicates need for changing dress/bed.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 10,
+        "text": "Makes gestures/sound when required to be cleaned (mouth cleaning, drooling, etc.).",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 11,
+        "text": "Stretch hands and legs while dressing/bathing/powdering.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 12,
+        "text": "Cries/makes gestures/body movements/facial expression whc n gels pa in/fever/any disi ress.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-012",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 13,
+        "text": "Reaches for and holds objects and manipulates meaningfully.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-013",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 14,
+        "text": "Looks at/points to objects he wants.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-014",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 15,
+        "text": "Smiles in response to others greetings/talking to him.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-015",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 16,
+        "text": "Makes gestures to say namaste/.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-016",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 17,
+        "text": "Mows from place to place (rolls, creeps, crawls, any other specify).",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-017",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 18,
+        "text": "Turns head/looks/smiles at people when called by name.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-018",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 19,
+        "text": "Says 'yes' or 'no' by nodding head/waving hands.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-019",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 20,
+        "text": "Shows special preference mother/caretaker/familiar persons.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-020",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 21,
+        "text": "Watches other children playing.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-021",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 22,
+        "text": "Keeps quiet/Shows signs of enjoyment when taken out (park, shops, temple, etc.).",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-022",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 23,
+        "text": "Listens to music if music is on.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-023",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 24,
+        "text": "Sits for atleast 10-15 minutes if made to sit with support.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-024",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 25,
+        "text": "Watches TV if made to sit in the TV room.",
+        "page": 112,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-025",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 26,
+        "text": "Waves hands to say bye (may do it with assistance/prompts).",
+        "page": 114,
+        "section": null,
+        "id": "FACP-CARE-GROUP-PERSONAL-026",
+        "sourceType": "official-facp"
+      }
+    ]
+  },
+  {
+    "level": "Care Group",
+    "domain": "Recreational",
+    "items": [
+      {
+        "number": 1,
+        "text": "Watches T.V.Advertisements.",
+        "page": 114,
+        "section": "Indoor",
+        "id": "FACP-CARE-GROUP-RECREATIONAL-001",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "Listens to music.",
+        "page": 114,
+        "section": "Indoor",
+        "id": "FACP-CARE-GROUP-RECREATIONAL-002",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Swings and sways body with rhythm of music in Radio or T.V.",
+        "page": 114,
+        "section": "Indoor",
+        "id": "FACP-CARE-GROUP-RECREATIONAL-003",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Plays with blocks/squeaky rubber toys. -",
+        "page": 114,
+        "section": "Indoor",
+        "id": "FACP-CARE-GROUP-RECREATIONAL-004",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Makes strokes with pencils or crayons when assisted.",
+        "page": 114,
+        "section": "Indoor",
+        "id": "FACP-CARE-GROUP-RECREATIONAL-005",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 6,
+        "text": "Looks at pictures in magazines when shown.",
+        "page": 114,
+        "section": "Indoor",
+        "id": "FACP-CARE-GROUP-RECREATIONAL-006",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 7,
+        "text": "Plays with dolls.",
+        "page": 114,
+        "section": "Indoor",
+        "id": "FACP-CARE-GROUP-RECREATIONAL-007",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 1,
+        "text": "Plays with ball.",
+        "page": 116,
+        "section": "Outdoor",
+        "id": "FACP-CARE-GROUP-RECREATIONAL-008",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 2,
+        "text": "£nj,ys rounds (wAen carrid/dri'venitaken for walk) in die garden or open yard around.",
+        "page": 116,
+        "section": "Outdoor",
+        "id": "FACP-CARE-GROUP-RECREATIONAL-009",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 3,
+        "text": "Sand play.",
+        "page": 116,
+        "section": "Outdoor",
+        "id": "FACP-CARE-GROUP-RECREATIONAL-010",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 4,
+        "text": "Watches and enjoys children playing in the outdoor.",
+        "page": 116,
+        "section": "Outdoor",
+        "id": "FACP-CARE-GROUP-RECREATIONAL-011",
+        "sourceType": "official-facp"
+      },
+      {
+        "number": 5,
+        "text": "Enjoys going for a ride on cycle, scooter, bus or car.",
+        "page": 116,
+        "section": "Outdoor",
+        "id": "FACP-CARE-GROUP-RECREATIONAL-012",
+        "sourceType": "official-facp"
+      }
+    ]
+  }
+]

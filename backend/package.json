@@ -1,0 +1,49 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "seed:adl": "node seedADLMicroSteps.js",
+    "seed:modules": "node seedLearningModules.js",
+    "seed:admin": "node seedAdmin.js",
+    "seed:giid": "node seedGIIDStudents.js",
+    "seed:rag": "node seedRAGKnowledge.js",
+    "backfill:levels": "node backfillLearningLevels.js",
+    "test:adaptive": "node testAdaptiveLogic.js",
+    "recalc:adaptive": "node recalculateAdaptiveData.js",
+    "student:level": "node setStudentLearningLevel.js",
+    "test:alpi": "node testALPI.js",
+    "test:facp": "node testFACP.js",
+    "test:bkt": "python testBKT.py",
+    "backfill:facp-levels": "node backfillFACPFunctionalLevels.js",
+    "sync:giid": "node syncGIIDStudents.js",
+    "migrate:games": "node migrateGeneratedGames.js",
+    "verify:facp-mapping": "node verifyGIIDFACPMapping.js",
+    "backfill:module-facp": "node backfillModuleFacpMappings.js",
+    "verify:facp": "node verifyFACPComplete.js",
+    "seed:demo-results": "node seedPrototypeDemoResults.js",
+    "reset:games": "node resetGeneratedGames.js",
+    "backfill:module-facp-levels": "node backfillModuleFACPLevels.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.19.0",
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.9.0",
+    "multer": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

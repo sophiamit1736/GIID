@@ -1,0 +1,50 @@
+
+/* LearnAble responsive game layout. All games remain web-based but work with touch input on phones/tablets. */
+.la-game-shell-header { flex-wrap: wrap; }
+.la-game-shell-main { width: 100%; box-sizing: border-box; }
+.la-game-grid { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
+.la-two-columns { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
+.la-memory-grid { grid-template-columns: repeat(4, minmax(0, 1fr)) !important; }
+.la-match { grid-template-columns: minmax(0,1fr) 34px minmax(0,1fr) !important; }
+@media (max-width: 700px) {
+  .la-game-shell-header { padding: 10px 12px !important; gap: 9px !important; }
+  .la-game-shell-header > div:nth-of-type(1) { min-width: 0; }
+  .la-game-shell-main { padding: 14px 10px 28px !important; }
+  .la-game-grid { grid-template-columns: 1fr !important; }
+  .la-two-columns { grid-template-columns: 1fr !important; gap: 12px !important; }
+  .la-memory-grid { grid-template-columns: repeat(2, minmax(0,1fr)) !important; }
+  .la-match { grid-template-columns: 1fr !important; gap: 8px !important; }
+  .la-match > div:nth-child(2) { display: none; }
+  .la-game-shell-header select { min-width: 120px !important; max-width: 42vw; }
+  .la-game-shell-header > div:last-child { margin-left: auto; }
+}
+@media (max-width: 420px) {
+  .la-game-shell-header { align-items: flex-start !important; }
+  .la-game-shell-header > div:last-child { display: none; }
+  .la-game-shell-main { padding-left: 8px !important; padding-right: 8px !important; }
+}
+.facp-main-grid { width: 100%; }
+@media (max-width: 900px) {
+  .facp-main-grid { grid-template-columns: 1fr !important; }
+  .facp-header-grid { grid-template-columns: repeat(2, minmax(0,1fr)) !important; }
+}
+@media (max-width: 560px) {
+  .facp-header-grid { grid-template-columns: 1fr !important; }
+}
+
+.ai-generator-main { width: 100%; box-sizing: border-box; }
+@media (max-width: 900px) { .ai-generator-main { grid-template-columns: 1fr !important; padding: 18px !important; } }
+@media (max-width: 560px) { .ai-generator-main { padding: 10px !important; } }
+
+/* Review-3 accessible AI game layout: large tap targets and mobile-friendly stacking. */
+.la-access-option-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.la-access-two-columns { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.la-access-memory-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+@media (max-width: 760px) {
+  .la-access-option-grid { grid-template-columns: 1fr !important; }
+  .la-access-two-columns { grid-template-columns: 1fr !important; }
+  .la-access-memory-grid { grid-template-columns: repeat(3, minmax(0, 1fr)) !important; }
+}
+@media (max-width: 480px) {
+  .la-access-memory-grid { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
+}

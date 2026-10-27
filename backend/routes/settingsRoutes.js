@@ -1,0 +1,1 @@
+const express=require('express'); const router=express.Router(); const {verifyToken}=require('../middleware/authMiddleware'); const c=require('../controllers/settingsController'); router.use(verifyToken); router.get('/profile',c.profile); router.put('/profile',c.updateProfile); router.put('/password',c.changePassword); module.exports=router;

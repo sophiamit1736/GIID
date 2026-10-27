@@ -1,0 +1,279 @@
+{
+  "source": "FACP_OFFICIAL_SOURCE.pdf",
+  "sourceTitle": "Functional Assessment Checklist for Programming",
+  "sourcePages": 120,
+  "catalogueGroups": 32,
+  "actualChecklistLevels": [
+    "Preprimary",
+    "Primary-I",
+    "Primary-II",
+    "Secondary",
+    "Prevocational-I",
+    "Prevocational-II",
+    "Care Group"
+  ],
+  "GIIDTrainingGroupExtension": [
+    "Vocational"
+  ],
+  "vocationalChecklistInSuppliedSource": false,
+  "totalActivities": 709,
+  "recreationalIncludedInCatalogue": true,
+  "blankIndividualizationSlotsIncluded": false,
+  "counts": [
+    {
+      "level": "Preprimary",
+      "domain": "Personal",
+      "items": 19,
+      "firstPage": 7,
+      "lastPage": 7
+    },
+    {
+      "level": "Preprimary",
+      "domain": "Social",
+      "items": 22,
+      "firstPage": 11,
+      "lastPage": 11
+    },
+    {
+      "level": "Preprimary",
+      "domain": "Academic",
+      "items": 43,
+      "firstPage": 15,
+      "lastPage": 17
+    },
+    {
+      "level": "Preprimary",
+      "domain": "Occupational",
+      "items": 4,
+      "firstPage": 19,
+      "lastPage": 19
+    },
+    {
+      "level": "Preprimary",
+      "domain": "Recreational",
+      "items": 17,
+      "firstPage": 21,
+      "lastPage": 23
+    },
+    {
+      "level": "Primary-I",
+      "domain": "Personal",
+      "items": 21,
+      "firstPage": 27,
+      "lastPage": 27
+    },
+    {
+      "level": "Primary-I",
+      "domain": "Social",
+      "items": 21,
+      "firstPage": 29,
+      "lastPage": 29
+    },
+    {
+      "level": "Primary-I",
+      "domain": "Academic",
+      "items": 43,
+      "firstPage": 31,
+      "lastPage": 33
+    },
+    {
+      "level": "Primary-I",
+      "domain": "Occupational",
+      "items": 10,
+      "firstPage": 35,
+      "lastPage": 37
+    },
+    {
+      "level": "Primary-I",
+      "domain": "Recreational",
+      "items": 20,
+      "firstPage": 37,
+      "lastPage": 39
+    },
+    {
+      "level": "Primary-II",
+      "domain": "Personal",
+      "items": 30,
+      "firstPage": 43,
+      "lastPage": 45
+    },
+    {
+      "level": "Primary-II",
+      "domain": "Social",
+      "items": 33,
+      "firstPage": 45,
+      "lastPage": 47
+    },
+    {
+      "level": "Primary-II",
+      "domain": "Academic",
+      "items": 33,
+      "firstPage": 49,
+      "lastPage": 51
+    },
+    {
+      "level": "Primary-II",
+      "domain": "Occupational",
+      "items": 7,
+      "firstPage": 51,
+      "lastPage": 51
+    },
+    {
+      "level": "Primary-II",
+      "domain": "Recreational",
+      "items": 20,
+      "firstPage": 53,
+      "lastPage": 55
+    },
+    {
+      "level": "Secondary",
+      "domain": "Personal",
+      "items": 16,
+      "firstPage": 60,
+      "lastPage": 60
+    },
+    {
+      "level": "Secondary",
+      "domain": "Social",
+      "items": 17,
+      "firstPage": 62,
+      "lastPage": 62
+    },
+    {
+      "level": "Secondary",
+      "domain": "Academic",
+      "items": 33,
+      "firstPage": 64,
+      "lastPage": 66
+    },
+    {
+      "level": "Secondary",
+      "domain": "Occupational",
+      "items": 36,
+      "firstPage": 68,
+      "lastPage": 70
+    },
+    {
+      "level": "Secondary",
+      "domain": "Recreational",
+      "items": 14,
+      "firstPage": 72,
+      "lastPage": 74
+    },
+    {
+      "level": "Prevocational-I",
+      "domain": "Personal",
+      "items": 12,
+      "firstPage": 78,
+      "lastPage": 78
+    },
+    {
+      "level": "Prevocational-I",
+      "domain": "Social",
+      "items": 16,
+      "firstPage": 80,
+      "lastPage": 80
+    },
+    {
+      "level": "Prevocational-I",
+      "domain": "Academic",
+      "items": 31,
+      "firstPage": 82,
+      "lastPage": 84
+    },
+    {
+      "level": "Prevocational-I",
+      "domain": "Occupational",
+      "items": 23,
+      "firstPage": 84,
+      "lastPage": 86
+    },
+    {
+      "level": "Prevocational-I",
+      "domain": "Recreational",
+      "items": 19,
+      "firstPage": 88,
+      "lastPage": 90
+    },
+    {
+      "level": "Prevocational-II",
+      "domain": "Personal",
+      "items": 18,
+      "firstPage": 94,
+      "lastPage": 94
+    },
+    {
+      "level": "Prevocational-II",
+      "domain": "Social",
+      "items": 24,
+      "firstPage": 96,
+      "lastPage": 98
+    },
+    {
+      "level": "Prevocational-II",
+      "domain": "Academic",
+      "items": 18,
+      "firstPage": 98,
+      "lastPage": 100
+    },
+    {
+      "level": "Prevocational-II",
+      "domain": "Occupational",
+      "items": 32,
+      "firstPage": 102,
+      "lastPage": 104
+    },
+    {
+      "level": "Prevocational-II",
+      "domain": "Recreational",
+      "items": 19,
+      "firstPage": 106,
+      "lastPage": 108
+    },
+    {
+      "level": "Care Group",
+      "domain": "Personal",
+      "items": 26,
+      "firstPage": 112,
+      "lastPage": 114
+    },
+    {
+      "level": "Care Group",
+      "domain": "Recreational",
+      "items": 12,
+      "firstPage": 114,
+      "lastPage": 116
+    }
+  ],
+  "performanceCodes": [
+    "+",
+    "C",
+    "GP",
+    "VP",
+    "M",
+    "PP",
+    "-",
+    "NA",
+    "NE"
+  ],
+  "recreationGrades": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "NE"
+  ],
+  "promotionCriterionPercent": 80,
+  "assessmentPeriods": [
+    "Entry",
+    "I Term",
+    "II Term",
+    "III Term"
+  ],
+  "notes": [
+    "The catalogue contains the actual numbered activities present in the supplied checklist; blank individualization slots are not invented as activities.",
+    "Vocational is retained as a GIID training group extension because the supplied source explicitly states that its curriculum checklist does not cover the vocational area.",
+    "Each activity retains its source page for traceability."
+  ]
+}

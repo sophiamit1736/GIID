@@ -1,0 +1,14 @@
+In AIActivityGeneratorPage.tsx, replace the generate handler's request selection:
+
+OLD:
+const r=studentId?await api.post('/ai/generate-for-student',{studentId,requestedType:gameType}):await api.post('/ai/generate',{topic:topic||'Learning Skill',age,level:selected?.learningLevel||'Beginner',difficulty,focus,activityTypes:gameType?[gameType]:[]});
+
+NEW:
+const r=(mode==='auto' && studentId)
+ ? await api.post('/ai/generate-for-student',{studentId,requestedType:gameType})
+ : await api.post('/ai/generate',{topic:topic.trim(),skill:topic.trim(),requestedType:gameType,age,level:selected?.learningLevel||'Beginner',difficulty,focus,activityTypes:gameType?[gameType]:[]});
+
+Also validate manual topic before starting:
+if(mode==='manual'&&!topic.trim()){setMessage('Enter one specific skill/topic, e.g. Drinking Water.');return;}
+
+The supplied patched full AIActivityGeneratorPage.tsx includes these changes. Before replacing it, confirm the backend /ai/generate endpoint accepts `skill` and `requestedType`; if not, map those two fields to the exact backend schema. Frontend alone cannot guarantee grounding: backend must validate generated skill against the teacher's requested topic and reject unrelated output.

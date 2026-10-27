@@ -1,0 +1,3 @@
+require('dotenv').config();
+const mongoose=require('mongoose'); const bcrypt=require('bcrypt'); const User=require('./models/User');
+(async()=>{try{await mongoose.connect(process.env.MONGO_URI);const email=process.env.ADMIN_EMAIL||'admin@learnable.local';const password=process.env.ADMIN_PASSWORD||'Admin@12345';let u=await User.findOne({email});if(!u)u=await User.create({name:'LearnAble Admin',email,password:await bcrypt.hash(password,10),role:'admin',status:'Active'});else{u.role='admin';u.status='Active';u.password=await bcrypt.hash(password,10);await u.save();}console.log(`Admin ready: ${email}`);await mongoose.disconnect();}catch(e){console.error(e);process.exit(1)}})();

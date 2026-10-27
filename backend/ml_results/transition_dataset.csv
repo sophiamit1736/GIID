@@ -1,0 +1,76 @@
+student_hash,target_band,age,prev_accuracy,prev_performanceIndex,prev_completionRate,prev_efficiencyScore,prev_timeTaken,prev_attempts,prev_helpRequests,prev_wrongAnswers,prev_correctAnswers,prev_totalQuestions,prev_facpScore,prev_level_num,prev_activityName,prev_domain,prev_gameType,prev_evidenceType,prev_moduleId,prev_dataSource,prev_learningLevel
+014c56db7fa9aa060719,Low (<50),,0,40.0,100.0,83.0,29,4,0,4,0,4,0.0,,Gardening Game,Personal,choice,,gardening-game-1789656045331,unspecified,Unknown
+014c56db7fa9aa060719,High (80–100),,0,12.0,0.0,40.0,152,1,0,4,0,4,0.0,,Gardening Game,Personal,choice,,gardening-game-1789656045331,unspecified,Unknown
+014c56db7fa9aa060719,High (80–100),,100,81.0,100.0,38.0,54,40,0,0,6,6,63.0,,Assessment Based Intervention Game,Personal,memory,game,game-1790159554184-ozwoj8,prototype,Unknown
+014c56db7fa9aa060719,High (80–100),,100,87.0,100.0,57.0,22,18,0,0,4,4,63.0,,Personal Hygiene Game,Personal,memory,game,game-1790226746775-fsqc8y,prototype,Unknown
+014c56db7fa9aa060719,Low (<50),,100,90.0,100.0,66.0,69,4,0,0,4,4,63.0,,Assessment Based Intervention Game,Personal,drag-sort,game,game-1791365283380-a9db8i,prototype,Unknown
+0e3ba0a28519557064a1,High (80–100),,100,97.0,100.0,90.0,8,4,0,0,4,4,0.0,,Shape Matching,Academic / Cognitive Skills,drag-match,,game-shape-matching,unspecified,Unknown
+1c1f22f914dbe8dd4fb1,High (80–100),,100,,,,109,1,0,0,3,3,,,Brushing Teeth,ADL,,,adl-brushing,unspecified,Unknown
+1c1f22f914dbe8dd4fb1,High (80–100),,100,100.0,100.0,99.0,6,1,0,0,4,4,,,Shape Matching,Academic,drag-match,,game-shape-matching,unspecified,Unknown
+1c1f22f914dbe8dd4fb1,High (80–100),,100,100.0,100.0,100.0,112,1,0,0,3,3,98.0,,Brushing Teeth,ADL,game,,adl-brushing,unspecified,Unknown
+1c1f22f914dbe8dd4fb1,Developing (50–79),,100,99.0,100.0,97.0,15,1,0,0,4,4,98.0,,Fruit Matching,Academic,tap-match,,game-fruit-matching,unspecified,Unknown
+1c1f22f914dbe8dd4fb1,High (80–100),,100,77.0,100.0,22.0,96,44,0,0,6,6,0.0,,Physical Activity Memory Match,ADL,memory,,physical-activity-memory-match-1789580019316,unspecified,Unknown
+1c1f22f914dbe8dd4fb1,Low (<50),,100,90.0,100.0,67.0,27,12,0,0,4,4,0.0,,Combing Game,ADL,memory,,combing-game-1789622232048,unspecified,Unknown
+238744690885d07bdeb6,High (80–100),,100,,,,9,1,0,0,4,4,,,Colour Matching,Academic,,,game-colour-matching,unspecified,Unknown
+238744690885d07bdeb6,High (80–100),,100,100.0,100.0,100.0,28,1,0,0,6,6,17.0,,Memory Matching,Academic,game,,game-memory,unspecified,Unknown
+238744690885d07bdeb6,High (80–100),,100,100.0,100.0,100.0,0,1,0,0,4,4,17.0,,Emotion Matching,Social,game,,facp-emotions,unspecified,Unknown
+26c01c6d1af92f680493,High (80–100),,0,0.0,100.0,0.0,65,1,4,3,5,8,0.0,,Brushing Teeth — Learning Assessment,Personal,module,module-assessment,adl-brushing,prototype,Unknown
+2c29bbe7b44041f9a914,High (80–100),,100,94.0,100.0,79.0,29,6,0,0,6,6,0.0,,Physical Activity Game,General,matching,,physical-activity-game-1789708624274,unspecified,Unknown
+2c29bbe7b44041f9a914,High (80–100),,100,96.0,100.0,87.0,16,4,0,0,4,4,0.0,,Personal Hygiene Game,Personal,drag-sort,game,game-1792144984854-e1gcly,prototype,Unknown
+2c29bbe7b44041f9a914,High (80–100),,100,96.0,100.0,86.0,17,4,0,0,4,4,0.0,,Animal Matching,Communication,tap-match,game,game-animal-matching,prototype,Unknown
+2c29bbe7b44041f9a914,High (80–100),,100,97.0,100.0,89.0,12,4,0,0,4,4,0.0,,Personal Hygiene Game,Personal,drag-sort,game,game-1792144984854-e1gcly,prototype,Unknown
+300d3ad9eb66070436fb,High (80–100),,100,97.0,100.0,89.0,10,4,0,0,4,4,0.0,,Picture Identification,Academic / Cognitive Skills,picture-id,,game-picture-id,unspecified,Unknown
+300d3ad9eb66070436fb,High (80–100),,100,96.0,100.0,87.0,16,4,0,0,4,4,0.0,,Personal Hygiene Game,Academic / Cognitive Skills,drag-sort,game,game-1789839031879-wla502,unspecified,Unknown
+300d3ad9eb66070436fb,High (80–100),,100,97.0,100.0,91.0,8,4,0,0,4,4,0.0,,Personal Hygiene Game,Academic / Cognitive Skills,drag-sort,game,game-1789839031879-wla502,unspecified,Unknown
+487ccd2f1e4726f02e9b,High (80–100),,67,,,,19,1,0,1,2,3,,,Brushing Teeth,ADL,,,adl-brushing,unspecified,Unknown
+487ccd2f1e4726f02e9b,High (80–100),,100,99.0,100.0,97.0,14,1,0,0,4,4,,,Animal Matching,Academic,tap-match,,game-animal-matching,unspecified,Unknown
+4a160239255ff0c56076,High (80–100),,100,100.0,100.0,99.0,5,4,0,0,4,4,0.0,,Shape Matching,Academic / Cognitive Skills,drag-match,,game-shape-matching,unspecified,Unknown
+4a160239255ff0c56076,High (80–100),,100,100.0,100.0,100.0,45,1,0,0,3,3,0.0,,Brushing Teeth,ADL,game,,adl-brushing,unspecified,Unknown
+4a160239255ff0c56076,High (80–100),,100,95.0,100.0,82.0,30,4,0,0,4,4,58.0,,Toilet Training Game,Personal,choice,game,game-1790438029251-zedyez,prototype,Unknown
+4a160239255ff0c56076,High (80–100),,100,92.0,100.0,74.0,19,10,0,0,4,4,58.0,,Assessment Based Intervention Game,Personal,memory,game,game-1791533314844-posrat,prototype,Unknown
+503653ead8876b7bc29c,Low (<50),,0,0.0,100.0,0.0,22,1,3,5,3,8,0.0,,Brushing Teeth — Learning Assessment,Personal,module,module-assessment,adl-brushing,unspecified,Unknown
+503653ead8876b7bc29c,High (80–100),,0,0.0,100.0,0.0,109,1,0,7,1,8,0.0,,Brushing Teeth — Learning Assessment,Personal,module,module-assessment,adl-brushing,unspecified,Unknown
+51f8f1340ba6e2aaf09f,High (80–100),,100,97.0,100.0,90.0,7,4,0,0,4,4,0.0,,Shape Matching,Academic / Cognitive Skills,drag-match,,game-shape-matching,unspecified,Unknown
+51f8f1340ba6e2aaf09f,High (80–100),,100,96.0,100.0,87.0,16,4,0,0,4,4,0.0,,Tool Identification Matching Game,Academic / Cognitive Skills,matching,,tool-identification-matching-game-1789581866258,unspecified,Unknown
+51f8f1340ba6e2aaf09f,High (80–100),,100,83.0,100.0,44.0,40,30,0,0,4,4,0.0,,Social Skills Memory Match,Academic / Cognitive Skills,memory,,social-skills-memory-match-1789583763504,unspecified,Unknown
+51f8f1340ba6e2aaf09f,High (80–100),,75,81.0,100.0,83.0,29,4,0,1,3,4,0.0,,Combing Fun Game,ADL,choice,,combing-fun-game-1789583964578,unspecified,Unknown
+51f8f1340ba6e2aaf09f,Low (<50),,100,92.0,100.0,73.0,13,12,0,0,4,4,86.0,,Combing Game,ADL,memory,game,migrated-combing-game-1789622232048-d6e725,unspecified,Unknown
+60d4ce93a4de7786ac71,High (80–100),,67,,,,30,1,2,1,2,3,,,Brushing Teeth,ADL,,,ai-brushing-teeth-1787844859765,unspecified,Unknown
+60d4ce93a4de7786ac71,High (80–100),,100,99.0,100.0,97.0,14,1,0,0,4,4,,,Picture ID,Academic,picture-id,,game-picture-id,unspecified,Unknown
+60d4ce93a4de7786ac71,High (80–100),,100,100.0,100.0,98.0,12,1,0,0,4,4,,,Number Matching,Academic,letter-match,,game-number-matching,unspecified,Unknown
+60d4ce93a4de7786ac71,High (80–100),,100,99.0,100.0,97.0,13,1,0,0,4,4,,,Shape Matching,Academic,drag-match,,game-shape-matching,unspecified,Unknown
+60d4ce93a4de7786ac71,High (80–100),,100,100.0,100.0,98.0,10,1,0,0,4,4,85.0,,Colour Matching,Academic,tap-match,,game-colour-matching,unspecified,Unknown
+636fe24a63ca83d10c9a,High (80–100),,20,51.0,100.0,83.0,22,5,0,4,1,5,0.0,,Physical Activity Game,General,visual-sequence,,physical-activity-game-1789722432641,unspecified,Unknown
+636fe24a63ca83d10c9a,High (80–100),,100,95.0,100.0,83.0,22,5,0,0,4,4,0.0,,Physical Activity Game,General,matching,,physical-activity-game-1789726972373,unspecified,Unknown
+636fe24a63ca83d10c9a,Low (<50),,100,84.0,100.0,46.0,36,26,0,0,6,6,0.0,,Physical Activity Memory Match,ADL,memory,game,migrated-physical-activity-memory-match-1789580019316-ea61ff,unspecified,Unknown
+636fe24a63ca83d10c9a,High (80–100),,0,41.0,100.0,87.0,8,6,0,6,0,6,0.0,,Personal Hygiene Game,General,visual-sequence,game,game-1790160437956-p3k9x6,prototype,Unknown
+80d90506f67ede5a84c6,High (80–100),,100,82.0,100.0,39.0,52,36,0,0,6,6,0.0,,Grooming Game,Personal,memory,,grooming-game-1789637274004,unspecified,Unknown
+9d046134730b24154eba,High (80–100),,100,100.0,100.0,100.0,175,1,0,0,3,3,0.0,,Brushing Teeth,ADL,module,,adl-brushing,unspecified,Unknown
+9d046134730b24154eba,High (80–100),,100,83.0,100.0,43.0,42,28,0,0,6,6,0.0,,Toilet Training Game,Personal,memory,game,migrated-toilet-training-game-1789620612884-d6e724,unspecified,Unknown
+9d046134730b24154eba,High (80–100),,100,92.0,100.0,72.0,44,4,0,0,4,4,0.0,,Shape Matching,Academic / Cognitive Skills,drag-match,game,game-shape-matching,prototype,Unknown
+a03bec4129c36098e920,Developing (50–79),,33,,,,15,1,0,2,1,3,,,Toilet Routine,ADL,,,adl-toilet,unspecified,Unknown
+a03bec4129c36098e920,Low (<50),,67,67.0,67.0,67.0,93,1,0,1,2,3,,,Brushing Teeth,ADL,game,,adl-brushing,unspecified,Unknown
+a03bec4129c36098e920,Developing (50–79),,0,42.0,100.0,90.0,10,4,0,4,0,4,100.0,,Physical Activity Game,ADL,visual-sequence,,physical-activity-game-1789708896280,unspecified,Unknown
+a03bec4129c36098e920,Developing (50–79),,50,70.0,100.0,90.0,9,4,0,2,2,4,100.0,,Physical Activity Game,ADL,visual-sequence,,physical-activity-game-1789708896280,unspecified,Unknown
+a03bec4129c36098e920,Developing (50–79),,50,70.0,100.0,92.0,5,4,0,2,2,4,100.0,,Physical Activity Game,ADL,visual-sequence,,physical-activity-game-1789708896280,unspecified,Unknown
+a03bec4129c36098e920,Low (<50),,50,70.0,100.0,91.0,7,4,0,2,2,4,100.0,,Physical Activity Game,ADL,visual-sequence,,physical-activity-game-1789708896280,unspecified,Unknown
+a68222ed2fa89427b703,High (80–100),,50,64.0,100.0,70.0,60,4,0,2,2,4,0.0,,Social Skills Game,Personal,visual-sequence,game,game-1790615639457-8hns3r,prototype,Unknown
+bcb12512320006f445b6,Low (<50),,0,12.0,0.0,40.0,197,1,0,4,0,4,0.0,,Colour Matching,Academic / Cognitive Skills,tap-match,game,game-colour-matching,prototype,Unknown
+bcb12512320006f445b6,High (80–100),,0,0.0,100.0,0.0,101,1,2,0,8,8,43.0,,Brushing Teeth — Learning Assessment,Personal,module,module-assessment,adl-brushing,prototype,Unknown
+d06e5eb455ebe901355e,High (80–100),,100,96.0,100.0,86.0,21,4,0,0,4,4,0.0,,Play Therapy Matching Game,Personal,matching,,play-therapy-matching-game-1789580296262,unspecified,Unknown
+d06e5eb455ebe901355e,High (80–100),,100,97.0,100.0,90.0,8,4,0,0,4,4,0.0,,Animal Matching,Communication,tap-match,,game-animal-matching,unspecified,Unknown
+d7663d32f164cce04199,High (80–100),,100,93.0,100.0,78.0,32,4,0,0,4,4,0.0,,Daily Routine Sequencing,ADL / Activities of Daily Living,tap-match,,game-daily-routine,unspecified,Unknown
+d7663d32f164cce04199,High (80–100),,100,97.0,100.0,90.0,7,4,0,0,4,4,0.0,,Shape Matching,Academic / Cognitive Skills,drag-match,,game-shape-matching,unspecified,Unknown
+d7663d32f164cce04199,High (80–100),,100,83.0,100.0,42.0,45,30,0,0,6,6,0.0,,Personal Hygiene Game,ADL / Activities of Daily Living,memory,game,game-1790017771012-iars4a,unspecified,Unknown
+d7663d32f164cce04199,High (80–100),,100,94.0,100.0,79.0,27,6,0,0,6,6,0.0,,Personal Hygiene Game,Academic / Cognitive Skills,visual-sequence,game,game-1790068828896-ex1o4e,unspecified,Unknown
+d7663d32f164cce04199,High (80–100),,75,82.0,100.0,86.0,20,4,0,1,3,4,0.0,,Personal Grooming Game,ADL / Activities of Daily Living,choice,game,game-1790159509786-bzn2oh,prototype,Unknown
+d7828675b3d7893ed72d,High (80–100),,100,89.0,100.0,64.0,45,8,0,0,4,4,0.0,,Colour Matching,Academic / Cognitive Skills,tap-match,,game-colour-matching,unspecified,Unknown
+d7828675b3d7893ed72d,High (80–100),,67,82.0,100.0,100.0,33,1,0,1,2,3,0.0,,எண்கள் மற்றும் பொருட்கள் பொருத்துதல்,Academic,module,,activity-1789496518612-1789496518656,unspecified,Unknown
+d7828675b3d7893ed72d,High (80–100),,100,100.0,100.0,100.0,38,1,0,0,3,3,0.0,,Brushing Teeth,ADL,module,,adl-brushing,unspecified,Unknown
+ea56ad1e0cd20cd4c5dd,Low (<50),,100,98.0,100.0,94.0,68,4,0,0,4,4,0.0,,Outdoor Play Game,Personal,visual-sequence,game,motor-outdoor,prototype,Unknown
+f551fc0185ede2be34ec,High (80–100),,67,77.0,100.0,83.0,17,6,0,2,4,6,68.0,,Eats by self with fingers when food is mixed and given. Game,Personal,drag-sort,game,game-1790017837571-fpwgii,unspecified,Unknown
+f551fc0185ede2be34ec,High (80–100),,100,97.0,100.0,90.0,7,4,0,0,4,4,68.0,,Shape Matching,Academic / Cognitive Skills,drag-match,game,game-shape-matching,unspecified,Unknown
+f551fc0185ede2be34ec,High (80–100),,100,96.0,100.0,86.0,20,4,0,0,4,4,68.0,,Eats by self with fingers when food is mixed and given. Game,Personal,matching,game,game-1790071321544-r8f8c5,unspecified,Unknown
+f551fc0185ede2be34ec,Developing (50–79),,100,97.0,100.0,90.0,10,4,0,0,4,4,68.0,,Eats by self with fingers when food is mixed and given. Game,Personal,matching,game,game-1790071321544-r8f8c5,unspecified,Unknown
+f551fc0185ede2be34ec,High (80–100),,67,76.0,100.0,81.0,22,6,0,2,4,6,68.0,,Eats by self with fingers when food is mixed and given. Game,Personal,drag-sort,game,game-1790017837571-fpwgii,prototype,Unknown
+f551fc0185ede2be34ec,High (80–100),,100,95.0,100.0,83.0,16,6,0,0,6,6,68.0,,Eats by self with fingers when food is mixed and given. Game,Personal,drag-sort,game,game-1790017837571-fpwgii,prototype,Unknown
